@@ -1,6 +1,6 @@
 --- 
-title: "Evaluacion de Tierras"
-author: "FAO-Fondas"
+title: "APTITUD CEREALES Y LEGUMINOSAS"
+author: "FAO-FONDAS"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -15,46 +15,22 @@ link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
 
-# Introduccion
+# Introduccion {-}
 
-This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
+<center>![](Imagenes/Region1.png)</center>
 
-## Objetivos 
+---
 
-Each **bookdown** chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter *must* start with a first-level heading: `# A good chapter`, and can contain one (and only one) first-level heading.
+## Introduccion {-}
 
-Use second-level and higher headings within chapters like: `## A short section` or `### An even shorter section`.
+Estimular la producción agrícola como una de las fuentes de alimentos para la creciente población es una necesidad real y el deseo de toda nación, y más si este estímulo promueve otros aspectos como la generación de empleos, el bienestar económico, la autosuficiencia alimentaria (reducción de importaciones) y el consecuente aporte al desarrollo de la  economía nacional, todo lo cual se convertiría en un excelente indicador de la salud de un país.
 
-The `index.Rmd` file is required, and is also your first book chapter. It will be the homepage when you render the book.
+Para apoyar este estímulo la selección adecuada de la vocación de uso de las tierras es un aspecto fundamental, ya que garantiza su éxito en cuanto a rendimientos de los cultivos, reducción de costos, incremento de ganancias, sostenibilidad de la actividad y conservación del ambiente, al evitar la sobreexplotación del recurso suelos lo que conllevaba a su inevitable degradación y la subutilización de las tierras lo que causar el uso ineficiente del recurso y conflicto por el usos de las tierras.
+ 
+Los cereales y leguminosas, constituyen conjuntamente con las proteínas de origen animal, los sales y minerales los componentes básicos de la dieta de la población y son necesarios para una correcta alimentación. Por esta razón son unos de los rubros más ampliamente cultivados en el mundo.  
 
-## Render book
+Todo esto motiva el desarrollo de esta actividad, la cual concentra sus metas en elaborar un inventario de información atributiva y geoespacial de información de suelos, así como la exploración de áreas aptas para la producción de estos tipos de cultivos.
+La creciente necesidad de alimentación de la sociedad, la selección correcta de la vocación de uso de las tierras para evitar su subutilización y/o sobre explotación y la consecuencia degradación, el uso correctos del recurso suelo. 
+cual es el problema, que vamos a hacer, cómo lo vamos a hacer, dónde lo haremos.
 
-You can render the HTML version of this example book without changing anything:
-
-1. Find the **Build** pane in the RStudio IDE, and
-
-1. Click on **Build Book**, then select your output format, or select "All formats" if you'd like to use multiple formats from the same book source files.
-
-Or build the book from the R console:
-
-```{r, eval=FALSE}
-bookdown::render_book()
-```
-
-To render this example to PDF as a `bookdown::pdf_book`, you'll need to install XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.org/tinytex/>.
-
-## Preview book
-
-As you work, you may start a local server to live preview this HTML book. This preview will update as you edit the book when you save individual .Rmd files. You can start the server in a work session by using the RStudio add-in "Preview book", or from the R console:
-
-```{r eval=FALSE}
-bookdown::serve_book()
-```
-
-
-```{r include=FALSE}
-# automatically create a bib database for R packages
-knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
-), 'packages.bib')
-```
+que voy a hacer: Se realizó una evaluación de tierras para conocer la aptitud de las mismas para el cultivo de Cereales y leguminosas en los estados Donde Aragua, Carabobo y Yaracuy, lo que al final permitirá localizar zonas con el mayor potencial en esos estados. Como La metodología que permitió lograr este objetivo se basó fundamentalmente en el Sistema de Capacidad de Uso Agropecuario modificado por Comerma y Arias en 1971, con algunos aportes de las directivas de Evaluación de Tierras de la FAO (1985).

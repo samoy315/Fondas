@@ -2,13 +2,9 @@ fig:nice-fig
 tab:nice-tab
 eq:binom
 thm:tri
-introduccion
 objetivos
-render-book
-preview-book
-hello-bookdown
-a-section
-cross
+materiales-y-metodos
+localizacion
 chapters-and-sub-chapters
 captioned-figures-and-tables
 parts
@@ -23,3 +19,10 @@ sharing-your-book
 publishing
 pages
 metadata-for-sharing
+url-your-book-url-like-httpsbookdown.orgyihuibookdown
+materiales
+informacion
+métodos
+consideraciones-generales
+adecuación-de-unidades-cartográficas
+calificación-de-factores-específicos-de-capacidad-de-uso
