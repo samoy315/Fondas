@@ -16,60 +16,68 @@ De la calificación de cada uno de los factores específicos del Sistema de Clas
 <br>
 <!-- <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center> -->
 
-<center>![](Imagenes/Aragua_Erosion.png)</center>
-<center> **Figura 2.** Calificación de las limitaciones por erosion del terreno en el estado Aragua.
+<center>![](Imagenes/Aragua_Erosion.png)
+**Figura 4.** Calificación de las limitaciones por erosion del terreno en el estado Aragua.</center>
+<br>
 
 <!-- <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center> -->
 
-<center>![](Imagenes/Aragua_Texturas.png)</center>
-<center> **Figura 2.** Calificación de las limitaciones por texturas de los suelos en el estado Aragua.
+<center>![](Imagenes/Aragua_Texturas.png)
+**Figura 5.** Calificación de las limitaciones por texturas de los suelos en el estado Aragua.</center>
+<br>
 
 <!-- <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center> -->
 
-<center>![](Imagenes/Aragua_Pedregosidad.png)</center>
-<center> **Figura 2.** Calificación de las limitaciones por pedregosidad de los suelos en el estado Aragua.
+<center>![](Imagenes/Aragua_Pedregosidad.png)
+**Figura 6.** Calificación de las limitaciones por pedregosidad de los suelos en el estado Aragua.</center>
+<br>
 
 <!-- <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center> -->
 
-<center>![](Imagenes/Aragua_Profundidad1.png)</center>
-<center> **Figura 2.** Calificación de las limitaciones por profundidad de los suelos en el estado Aragua.
+<center>![](Imagenes/Aragua_Profundidad1.png)
+**Figura 7.** Calificación de las limitaciones por profundidad de los suelos en el estado Aragua.</center>
+<br>
 
 <!-- <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center> -->
 
-<center>![](Imagenes/Aragua_Salinidad1.png)</center>
-<center> **Figura 2.** Calificación de las limitaciones por salinidad de los suelos en el estado Aragua.
+<center>![](Imagenes/Aragua_Salinidad1.png)
+**Figura 8.** Calificación de las limitaciones por salinidad de los suelos en el estado Aragua.</center>
+<br>
 
 <!-- <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center> -->
 
-<center>![](Imagenes/Aragua_Fertilidad1.png)</center>
-<center> **Figura 2.** Calificación de las limitaciones por fertilidad de los suelos en el estado Aragua.
+<center>![](Imagenes/Aragua_Fertilidad1.png)
+**Figura 9.** Calificación de las limitaciones por fertilidad de los suelos en el estado Aragua.</center>
+<br>
+<!-- <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center> -->
+
+<center>![](Imagenes/Aragua_Permeabilidad1.png)
+**Figura 10.** Calificación de las limitaciones por permeabilidad de los suelos en el estado Aragua.</center>
+<br>
 
 <!-- <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center> -->
 
-<center>![](Imagenes/Aragua_Permeabilidad1.png)</center>
-<center> **Figura 2.** Calificación de las limitaciones por permeabilidad de los suelos en el estado Aragua.
+<center>![](Imagenes/Aragua_Dre_interno1.png)
+**Figura 11.** Calificación de las limitaciones por drenaje interno de los suelos en el estado Aragua.</center>
+<br>
 
 <!-- <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center> -->
 
-<center>![](Imagenes/Aragua_Dre_interno1.png)</center>
-<center> **Figura 2.** Calificación de las limitaciones por drenaje interno de los suelos en el estado Aragua.
+<center>![](Imagenes/Aragua_Dre_externo1.png)
+**Figura 12.** Calificación de las limitaciones por drenaje externo de los suelos en el estado Aragua.</center>
+<br>
 
 <!-- <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center> -->
 
-<center>![](Imagenes/Aragua_Dre_externo1.png)</center>
-<center> **Figura 2.** Calificación de las limitaciones por drenaje externo de los suelos en el estado Aragua.
+<center>![](Imagenes/Aragua_Inundacion1.png)
+**Figura 13.** Calificación de las limitaciones por inundacion del terreno en el estado Aragua.</center>
+<br>
 
 <!-- <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center> -->
-
-<center>![](Imagenes/Aragua_Inundacion1.png)</center>
-<center> **Figura 2.** Calificación de las limitaciones por inundacion del terreno en el estado Aragua.
-
-<!-- <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center> -->
-
 
 ### Clase de Capacidad de Uso Agropecuario {-}
 
-El estado Aragua posee una superficie de 719.133 ha (7191 km^2^) aproximadamente y de ellas 5.5 % resultaron categorizadas por su capacidad de uso agropecuario como clase I, localizadas en la cuenca plana del lago de Valencia, valles del río Tucutunemo del municipio Zamora y en el eje que transcurren desde las poblaciones Cagua, San Mateo hasta La victoria. Por otra parte 17.5 % se categorizó como clase III, ubicadas en los bordes del Lago de Valencia, y el embalse de Zuata, tierras de Tucutunemo, el Cortijo y los Bagres cercanas a Villa de Cura y también planicies aluviales entre los límites de los municipios Camatagua y Urdaneta. Otro 18.4 % resultó clase IV y se localizan en las inmediaciones del embalse de Camatagua y planicies aluviales del municipio Urdaneta. El resto de la superficie del estado (56.6%) resultaron de clases iguales o mayores a la clase V con poco potencial para el cultivo de cereales y leguminosas debido a limitaciones moderadas a fuertes principalmente relacionadas a la pendiente, profundidad, fertilidad y drenaje. (Ver Cuadro 3 y Figura 38).
+El estado Aragua posee una superficie de 719.133 ha (7191 km^2^) aproximadamente y de ellas 5.5 % resultaron categorizadas por su capacidad de uso agropecuario como clase I, localizadas en la cuenca plana del lago de Valencia, valles del río Tucutunemo del municipio Zamora y en el eje que transcurren desde las poblaciones Cagua, San Mateo hasta La victoria. Por otra parte 17.5 % se categorizó como clase III, ubicadas en los bordes del Lago de Valencia, y el embalse de Zuata, tierras de Tucutunemo, el Cortijo y los Bagres cercanas a Villa de Cura y también planicies aluviales entre los límites de los municipios Camatagua y Urdaneta. Otro 18.4 % resultó clase IV y se localizan en las inmediaciones del embalse de Camatagua y planicies aluviales del municipio Urdaneta. El resto de la superficie del estado (56.6%) resultaron de clases iguales o mayores a la clase V con poco potencial para el cultivo de cereales y leguminosas debido a limitaciones moderadas a fuertes principalmente relacionadas a la pendiente, profundidad, fertilidad y drenaje. (Ver Cuadro 3 y Figura 14).
 
 
 
@@ -79,8 +87,8 @@ El estado Aragua posee una superficie de 719.133 ha (7191 km^2^) aproximadamente
 
 <br>
 <center>![](Imagenes/Aragua_CUSO1.png)
-**Figura 38.** Mapa de Clases de Capacidad de Uso Agropecuario de las tierras en el estado Aragua.</center>
-
+**Figura 14.** Mapa de Clases de Capacidad de Uso Agropecuario de las tierras en el estado Aragua.</center>
+<br>
 
 ### Clase de Aptitud para Cereales y Leguminosas {-}
 
