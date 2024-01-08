@@ -1,12 +1,79 @@
-# Parts
+# Resultados
 
-You can add parts to organize one or more book chapters together. Parts can be inserted at the top of an .Rmd file, before the first-level chapter heading in that same file. 
+Los resultados obtenidos en este trabajo se describen a continuación abarcando tres grandes aspectos: la clasificación por factores específicos del sistema de Clasificación por capacidad de uso agropecuario, mostrando las principales limitaciones físico natural de las tierras por cada estado; La clasificación por capacidad de usos (clases) de las tierras de cada estado superficies y proporción y finalmente la aptitud físico natural para el cultivo de cereales que requieren suelos bien drenados y leguminosas .
 
-Add a numbered part: `# (PART) Act one {-}` (followed by `# A chapter`)
+## Factores específicos
 
-Add an unnumbered part: `# (PART\*) Act one {-}` (followed by `# A chapter`)
+#### Estado Aragua {-}
 
-Add an appendix as a special kind of un-numbered part: `# (APPENDIX) Other stuff {-}` (followed by `# A chapter`). Chapters in an appendix are prepended with letters instead of numbers.
+De la calificación de cada uno de los factores específicos del Sistema de Clasificación por Capacidad de Uso agropecuario aplicado al estado Aragua (Figuras 2 a 13), se desprende que las mayores limitaciones del medio físico natural encontradas en el estado para el cultivo de Cereales y leguminosas, son las altas pendientes y el microrelieve del terreno especialmente en la Cordillera de la Costa y la Serranía del interior, las cuales en algunos casos pueden presentar también limitaciones por profundidad de los suelos y erosión actual. Otra limitación encontrada también en las zonas montañosas son la poca fertilidad natural de sus suelos, con pH ácidos y baja saturación de bases en superficies. Finalmente las limitaciones relacionadas con el drenaje son más frecuentes en la parte Sur del estado en el Municipio Urdaneta, donde se presentan suelos más arcillosos comprometidos en cuanto a su permeabilidad y con drenajes externos lentos, además de las tierras en el borde del lago de Valencia. En estas últimas zonas también se pueden presentar inundaciones ocasionales relacionadas con cursos de ríos y lagos.
 
+---
 
+<center>![](Imagenes/Aragua_Pendiente.png)
+**Figura 2.** Calificación de las limitaciones por Pendientes del terreno en el estado Aragua.</center>
+<br>
+<!-- <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center> -->
 
+<center>![](Imagenes/Aragua_Microrelieve.png)
+**Figura 3.** Calificación de las limitaciones por Microrelieve del terreno en el estado Aragua.</center>
+<br>
+<!-- <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center> -->
+
+<center>![](Imagenes/Aragua_Erosion.png)</center>
+<center> **Figura 2.** Calificación de las limitaciones por Pendientes del terreno en el estado Aragua.
+
+<!-- <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center> -->
+
+<center>![](Imagenes/Aragua_Texturas.png)</center>
+<center> **Figura 2.** Calificación de las limitaciones por Pendientes del terreno en el estado Aragua.
+
+<!-- <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center> -->
+
+<center>![](Imagenes/Aragua_Pedregosidad.png)</center>
+<center> **Figura 2.** Calificación de las limitaciones por Pendientes del terreno en el estado Aragua.
+
+<!-- <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center> -->
+
+<center>![](Imagenes/Aragua_Profundidad1.png)</center>
+<center> **Figura 2.** Calificación de las limitaciones por Pendientes del terreno en el estado Aragua.
+
+<!-- <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center> -->
+
+<center>![](Imagenes/Aragua_Salinidad1.png)</center>
+<center> **Figura 2.** Calificación de las limitaciones por Pendientes del terreno en el estado Aragua.
+
+<!-- <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center> -->
+
+<center>![](Imagenes/Aragua_Fertilidad1.png)</center>
+<center> **Figura 2.** Calificación de las limitaciones por Pendientes del terreno en el estado Aragua.
+
+<!-- <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center> -->
+
+<center>![](Imagenes/Aragua_Permeabilidad1.png)</center>
+<center> **Figura 2.** Calificación de las limitaciones por Pendientes del terreno en el estado Aragua.
+
+<!-- <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center> -->
+
+<center>![](Imagenes/Aragua_Dre_interno1.png)</center>
+<center> **Figura 2.** Calificación de las limitaciones por Pendientes del terreno en el estado Aragua.
+
+<!-- <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center> -->
+
+<center>![](Imagenes/Aragua_Dre_externo1.png)</center>
+<center> **Figura 2.** Calificación de las limitaciones por Pendientes del terreno en el estado Aragua.
+
+<!-- <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center> -->
+
+<center>![](Imagenes/Aragua_Inundacion1.png)</center>
+<center> **Figura 2.** Calificación de las limitaciones por Pendientes del terreno en el estado Aragua.
+
+<!-- <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center> -->
+
+---
+
+#### Estado Carabobo {-}
+
+---
+
+#### Estado Yaracuy {-}
