@@ -1,0 +1,32 @@
+# Referencias Bibliograficas
+
+Comerma J., Arias L., 1971. Un sistema para evaluar las capacidades de uso  agropecuarios de los terrenos en Venezuela. Seminario de Clasificación Interpretativo con Fines Agropecuarios. Boletín de la SVCS. Maracay, Venezuela. 50 pp.
+
+Comerma J, Paredes R. 1978. Principales limitaciones y potencial agrícola de las Tierras en
+Venezuela. Agronomía Tropical 28: 71-85.
+
+ESA, 1975. European Space Agency. Recuperado el 23 de noviembre de 2023. The European Space Agency. https://www.esa.int/
+
+FAO, 1985. Directivas: Evaluación de Tierras para agricultura en secano. Boletín de Suelos, N° 52, FAO, Roma. 297 pp.
+
+FAO/IIASA/ISRIC/ISSCAS/JRC, 2012. Harmonized World Soil Database (versión 1.2). FAO, Rome, Italy and IIASA, Laxenburg, Austria.
+
+FAO, 2012. Latin America and Caribbean Soil Information System (SISLAC), Recuperado el 23 de noviembre de 2023, FAO Soils portal,  https://www.fao.org/soils-portal/data-hub/national-soil-information-systems/sislac-regional/en/
+
+FAO, 2019. Global Soil Organic Carbon Map v1.5 (GSOC). CBL Global Soil Partnership. Recuperado el 23 de noviembre de 2023. https://storage.googleapis.com/fao-maps-catalog-data/geonetwork/gsoc/GSOCmap/GSOCmap1.5.0.tif
+
+ISRIC, 2020. SoilGrids Global gridded soil information. Recuperado el 23 de noviembre de 2023, ISRIC Worl Soil Information, https://www.isric.org/explore/soilgrids
+
+Klingebiel, A. y P.H. Montgomery, 1961. Land-Capability Classification. Agri. andb. 210. Soil Conserv. Servi. USDA.
+
+MARNOT (2008). Proyecto Manejo de Recursos Naturales y Ordenamiento de Tierras (MARNOT). Instituto Geográfico Simón Bolívar (IGVSB). 
+
+MARNR, 1983. Sistemas Ambientales de Venezuela. Ministerio del Ambiente y Recurso Naturales Renovables.
+
+NASA MODIS, 1999.  Moderate-Resolution Imaging Spectroradiometer (MODIS). Recuperado el 23 de noviembre de 2023.  https://ladsweb.modaps.eosdis.nasa.gov/
+
+NASA/USGS, 1999.    Misión Landsat 7 y 8. Recuperado el 23 de noviembre de 2023. USGS Science for a changing world.  https://earthexplorer.usgs.gov/
+
+Sevilla V., Valera A., Rey J., Viloria J., y Comerma J., 2013. Uso de la regresión kriging para elaborar mapas de propiedades de suelos en Venezuela. XX Congreso Venezolano de la Ciencia del Suelo. San Juan de Los Morros, Guárico, Venezuela.
+
+WORLDCLIM, 2020. Global Climate and Weather data. Recuperado el 23 de noviembre de 2023. WorldClim, https://worldclim.org/
