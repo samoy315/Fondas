@@ -6,10 +6,8 @@ De la calificación de cada uno de los factores específicos del Sistema de Clas
 
 ---
 
-<center>![](Imagenes/Aragua_Pendiente.png)
-**Figura 2.** Calificación de las limitaciones por pendientes del terreno en el estado Aragua.</center>
+<center>![](Imagenes/Aragua_Pendiente.png)**Figura 2.** Calificación de las limitaciones por pendientes del terreno en el estado Aragua.  <a href="Pdfs/Aragua_Pendiente.pdf" target="_blank" title="descargar">*Descargar*</a></center>
 <br>
-<!-- <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center> -->
 
 <center>![](Imagenes/Aragua_Microrelieve.png)
 **Figura 3.** Calificación de las limitaciones por microrelieve del terreno en el estado Aragua.</center>
