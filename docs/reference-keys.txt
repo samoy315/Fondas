@@ -1,0 +1,10 @@
+carabobo
+factores-específicos-1
+clase-de-capacidad-de-uso-agropecuario-1
+clase-de-aptitud-para-el-cultivo-de-cereales-y-leguminosas
+yaracuy
+factores-específicos-2
+clase-de-capacidad-de-uso-agropecuario-2
+clase-de-aptitud-para-el-cultivo-de-cereales-y-leguminosas-1
+conclusiones
+referencias-bibliograficas
