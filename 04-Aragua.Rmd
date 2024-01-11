@@ -38,28 +38,20 @@ De la calificación de cada uno de los factores específicos del Sistema de Clas
 <br>
 
 <center>![](Imagenes/Aragua_Permeabilidad1.png)
-**Figura 10.** Calificación de las limitaciones por permeabilidad de los suelos en el estado Aragua.</center>
+**Figura 10.** Calificación de las limitaciones por permeabilidad de los suelos en el estado Aragua. <a href="Pdfs/Aragua_Permeabilidad1.pdf" target="_blank" title="descargas">*Descargar*</a></center>
 <br>
-
-<!-- <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center> -->
 
 <center>![](Imagenes/Aragua_Dre_interno1.png)
-**Figura 11.** Calificación de las limitaciones por drenaje interno de los suelos en el estado Aragua.</center>
+**Figura 11.** Calificación de las limitaciones por drenaje interno de los suelos en el estado Aragua. <a href="Pdfs/Aragua_Dre_interno1.pdf" target="_blank" title="descargas">*Descargar*</a></center>
 <br>
-
-<!-- <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center> -->
 
 <center>![](Imagenes/Aragua_Dre_externo1.png)
-**Figura 12.** Calificación de las limitaciones por drenaje externo de los suelos en el estado Aragua.</center>
+**Figura 12.** Calificación de las limitaciones por drenaje externo de los suelos en el estado Aragua. <a href="Pdfs/Aragua_Dre_externo1.pdf" target="_blank" title="descargas">*Descargar*</a></center>
 <br>
-
-<!-- <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center> -->
 
 <center>![](Imagenes/Aragua_Inundacion1.png)
-**Figura 13.** Calificación de las limitaciones por inundacion del terreno en el estado Aragua.</center>
+**Figura 13.** Calificación de las limitaciones por inundacion del terreno en el estado Aragua. <a href="Pdfs/Aragua_Inundacion1.pdf" target="_blank" title="descargas">*Descargar*</a></center>
 <br>
-
-<!-- <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center> -->
 
 ### Clase de Capacidad de Uso Agropecuario {-}
 
@@ -73,7 +65,7 @@ El estado Aragua posee una superficie de 719.133 ha (7191 km^2^) aproximadamente
 
 <br>
 <center>![](Imagenes/Aragua_CUSO1.png)
-**Figura 14.** Mapa de Clases de Capacidad de Uso Agropecuario de las tierras en el estado Aragua.</center>
+**Figura 14.** Mapa de Clases de Capacidad de Uso Agropecuario de las tierras en el estado Aragua. <a href="Pdfs/Aragua_CUSO1.pdf" target="_blank" title="descargas">*Descargar*</a></center>
 <br>
 
 ### Clase de Aptitud para Cereales y Leguminosas {-}
