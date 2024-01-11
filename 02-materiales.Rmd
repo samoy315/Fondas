@@ -5,7 +5,7 @@ El área prioritaria y completa que se estudiará comprende los estados Anzoáte
 
 
 <center>![](Imagenes/Localizacion.png)</center>
-<center> **Figura 1.** Localización relativa del área de estudio. <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center>
+<center> **Figura 1.** Localización relativa del área de estudio. </center>
 
 
 ## Materiales {-}
