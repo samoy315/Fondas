@@ -1,0 +1,5 @@
+# Resultados {-}
+
+A continuación se describen los resultados obtenidos de la aplicación del Sistema de Clasificación por Capacidad de Uso Agropecuario para obtener áreas aptas para el cultivo de cereales y leguminosas en los estados Aragua, Carabobo y Yaracuy.
+
+Los resultados se describen por estado y comprenden la calificación de factores específicos (pendiente, microrelieve, erosión, texturas, pedregosidad, profundidad, salinidad, fertilidad, permeabilidad, drenajes e inundación; Clasificación por capacidad de usos y aptitud.

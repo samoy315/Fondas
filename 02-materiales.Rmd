@@ -1,6 +1,6 @@
-# Materiales y Metodos
+# Materiales y Metodos {-}
 
-## Localizacion
+## Localizacion {-}
 El área prioritaria y completa que se estudiará comprende los estados Anzoátegui, Aragua, Barinas, Carabobo, Cojedes, Portuguesa, Guárico, Monagas y Yaracuy (Ver Figura 1). Sin embargo el presente documento se concentra en los estados centrales de Aragua, Carabobo y Yaracuy, con una superficie de 18.763.58 km2 aproximadamente. (Ver Figura 1).
 
 
@@ -8,7 +8,7 @@ El área prioritaria y completa que se estudiará comprende los estados Anzoáte
 <center> **Figura 1.** Localización relativa del área de estudio. <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center>
 
 
-## Materiales
+## Materiales {-}
 
 #### Informacion {-}
 
@@ -30,7 +30,7 @@ los datos empleados fueron el resultados de búsquedas exhaustiva en diferentes 
 
 Para lograr los objetivos planteados y poder manipular información del tipo atributiva y tambien geo-espacial se emplea las herramientas de entorno informático como Excel, Arcview 32, QGIS, ArcInfo, ArcGIS, Access, DBDiagram.io y Rmarkdown. Las mencionadas aplicaciones permiten almacenar ordenadamente la información conseguida y también la posibilidad de normalizarlas a un proyección cartográfica Universal Transversal de Mercator (UTM), Huso 19 Norte, Datum SIRGAS-REGVEN. Además es indispensable para el análisis espacial y la aplicación de códigos  para la automatización de procesos.
 
-## Métodos
+## Métodos {-}
 
 El esquema metodológico empleado para desarrollar cada producto de los objetivos siguió las pasos  que se describen a continuación: 
 
