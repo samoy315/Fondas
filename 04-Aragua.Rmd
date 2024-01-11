@@ -78,5 +78,12 @@ Las tierras con una actitud moderadamente representan unos 17.5%, localizadas en
 
 Las zonas no aptas alcanzan el 56.6% del estado y son áreas de montañas con altas pendientes, micro relieve irregular, drenaje externos muy rápidos, suelos poco profundos y de baja fertilidad; como suelos mal drenados muy arcillosos y con ocasionales inundaciones del sur del estado.
 
-Las figuras 41, 42 y el Cuadro 6 muestran gráficamente la proporcionalidad de las clases y  las localidades con su categorización de aptitud para el cultivo de cereales y leguminosas.
+Las figuras 15, 16 y el Cuadro 3 muestran gráficamente la proporcionalidad de las clases y  las localidades con su categorización de aptitud para el cultivo de cereales y leguminosas.
 
+
+<center>![](Imagenes/Figura_aragua_aptitud.png)**Figura 15.** Proporción de clases de aptitud para el estado Aragua.</center>
+<br>
+
+<center>![](Imagenes/Aragua_Aptitud1.png)
+**Figura 16.** Mapa de Clases de Aptitud de las tierras para el cultivo de Cereales y Leguminosas en el estado Aragua. <a href="Pdfs/Aragua_Aptitud1.pdf" target="_blank" title="descargas">*Descargar*</a></center>
+<br>
