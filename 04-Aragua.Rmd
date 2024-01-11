@@ -10,21 +10,16 @@ De la calificación de cada uno de los factores específicos del Sistema de Clas
 <br>
 
 <center>![](Imagenes/Aragua_Microrelieve.png)
-**Figura 3.** Calificación de las limitaciones por microrelieve del terreno en el estado Aragua.</center>
+**Figura 3.** Calificación de las limitaciones por microrelieve del terreno en el estado Aragua. <a href="Pdfs/Aragua_Microrelieve.pdf" target="_blank" title="descargar">*Descargar*</a></center>
 <br>
-<!-- <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center> -->
 
 <center>![](Imagenes/Aragua_Erosion.png)
-**Figura 4.** Calificación de las limitaciones por erosion del terreno en el estado Aragua.</center>
+**Figura 4.** Calificación de las limitaciones por erosion del terreno en el estado Aragua. <a href="Pdfs/Aragua_Erosion.pdf" target="_blank" title="descargar">*Descargar*</a></center>
 <br>
-
-<!-- <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center> -->
 
 <center>![](Imagenes/Aragua_Texturas.png)
-**Figura 5.** Calificación de las limitaciones por texturas de los suelos en el estado Aragua.</center>
+**Figura 5.** Calificación de las limitaciones por texturas de los suelos en el estado Aragua. <a href="Pdfs/Aragua_Texturas.pdf" target="_blank" title="descargas">*Descargar*</a></center>
 <br>
-
-<!-- <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center> -->
 
 <center>![](Imagenes/Aragua_Pedregosidad.png)
 **Figura 6.** Calificación de las limitaciones por pedregosidad de los suelos en el estado Aragua.</center>
