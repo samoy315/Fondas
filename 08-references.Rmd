@@ -30,3 +30,5 @@ NASA/USGS, 1999.    Misión Landsat 7 y 8. Recuperado el 23 de noviembre de 2023
 Sevilla V., Valera A., Rey J., Viloria J., y Comerma J., 2013. Uso de la regresión kriging para elaborar mapas de propiedades de suelos en Venezuela. XX Congreso Venezolano de la Ciencia del Suelo. San Juan de Los Morros, Guárico, Venezuela.
 
 WORLDCLIM, 2020. Global Climate and Weather data. Recuperado el 23 de noviembre de 2023. WorldClim, https://worldclim.org/
+
+
