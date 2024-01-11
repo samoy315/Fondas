@@ -22,27 +22,20 @@ De la calificación de cada uno de los factores específicos del Sistema de Clas
 <br>
 
 <center>![](Imagenes/Aragua_Pedregosidad.png)
-**Figura 6.** Calificación de las limitaciones por pedregosidad de los suelos en el estado Aragua.</center>
+**Figura 6.** Calificación de las limitaciones por pedregosidad de los suelos en el estado Aragua. <a href="Pdfs/Aragua_Pedregosidad.pdf" target="_blank" title="descargas">*Descargar*</a></center>
 <br>
-
-<!-- <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center> -->
 
 <center>![](Imagenes/Aragua_Profundidad1.png)
-**Figura 7.** Calificación de las limitaciones por profundidad de los suelos en el estado Aragua.</center>
+**Figura 7.** Calificación de las limitaciones por profundidad de los suelos en el estado Aragua. <a href="Pdfs/Aragua_Profundidad1.pdf" target="_blank" title="descargas">*Descargar*</a></center>
 <br>
-
-<!-- <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center> -->
 
 <center>![](Imagenes/Aragua_Salinidad1.png)
-**Figura 8.** Calificación de las limitaciones por salinidad de los suelos en el estado Aragua.</center>
+**Figura 8.** Calificación de las limitaciones por salinidad de los suelos en el estado Aragua. <a href="Pdfs/Aragua_Salinidad1.pdf" target="_blank" title="descargas">*Descargar*</a></center>
 <br>
-
-<!-- <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center> -->
 
 <center>![](Imagenes/Aragua_Fertilidad1.png)
-**Figura 9.** Calificación de las limitaciones por fertilidad de los suelos en el estado Aragua.</center>
+**Figura 9.** Calificación de las limitaciones por fertilidad de los suelos en el estado Aragua. <a href="Pdfs/Aragua_Fertilidad1.pdf" target="_blank" title="descargas">*Descargar*</a></center>
 <br>
-<!-- <a href="Pdfs/Region1.pdf" target="_blank" title="descarga">Enlace</a></center> -->
 
 <center>![](Imagenes/Aragua_Permeabilidad1.png)
 **Figura 10.** Calificación de las limitaciones por permeabilidad de los suelos en el estado Aragua.</center>
