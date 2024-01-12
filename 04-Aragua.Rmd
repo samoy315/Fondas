@@ -59,7 +59,7 @@ El estado Aragua posee una superficie de 719.133 ha (7191 km^2^) aproximadamente
 
 
 
-<center>**Cuadro 3.** Superficies y porcentajes por clases de aptitud para cultivar cereales y leguminosas en el Estado Aragua.</center>
+<center>**Cuadro 3.** Superficies y porcentajes por clases de Capacidad de Uso Agropecuario en el Estado Aragua.</center>
 
 <center>![](Imagenes/Aragua_super_cuso.png)</center>
 

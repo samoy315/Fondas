@@ -57,6 +57,15 @@ De la calificación de cada uno de los factores específicos del Sistema de Clas
 
 El estado Carabobo posee una superficie de 514.326 ha (5143 km2) aproximadamente y de ellas 11.1 % resultaron categorizadas por su capacidad de uso agropecuario como clase I, localizadas en la cuenca plana del lago de Valencia y valles cercanos a las poblaciones de Naguanagua, San Diego y Yagua. Por otra parte 6.4% se categorizó como clase III, ubicadas próximas al lago de Valencia, embalse de Guataparo, y valles altos intramontanos de Miranda, Sabana de Aguirre, Bejuma Montalban. Otro 7.2 % resultó clase IV localizadas en el piedemonte y faldas de laderas de la Serranía del interior al sureste del lago de Valencia, al noroeste del estado en las zonas onduladas cercanas a San Pablo. El resto de la superficie del estado (69.3%) resultaron iguales o mayores a la clase V con bajo potencial para el cultivo de cereales y leguminosas debido a limitaciones como pendientes, microrelieve, profundidad, fertilidad y drenaje. (Ver Cuadro 4 y Figura 39).
 
+<center>**Cuadro 6.** Superficies y porcentajes por clases de Capacidad de Uso Agropecuario en el Estado Carabobo.</center>
+
+<center>![](Imagenes/Carabobo_super_cuso.png)</center>
+
+<br>
+<center>![](Imagenes/Carabobo_CUSO1.png)
+**Figura 29.** Mapa de Clases de Capacidad de Uso Agropecuario de las tierras en el estado Carabobo. <a href="Pdfs/Carabobo_CUSO1.pdf" target="_blank" title="descargas">*Descargar*</a></center>
+<br>
+
 
 ### Clase de Aptitud para el cultivo de Cereales y Leguminosas {-}
 
