@@ -2,68 +2,68 @@
 
 ### Factores específicos {-}
 
-De la calificación de cada uno de los factores específicos del Sistema de Clasificación por Capacidad de Uso agropecuario aplicado al estado Yaracuy (Figuras 26 a 37), se desprende que las mayores limitaciones del medio físico natural encontradas en el estado para el cultivo de Cereales y leguminosas, son las altas pendientes y el microrelieve del terreno especialmente en las laderas y piedemonte de las montañas de Sierra de Aroa y la montaña de Maria Lionza. Las cuales en algunos casos pueden presentar también limitaciones por profundidad de los suelos específicamente en los piedemontes y estribaciones de la Cordillera y erosión actual en el piedemonte altamente intervenidos por estar cerca de poblaciones importantes como San Felipe, Urachiche y Yaritagua. Otras limitaciones  encontradas son los suelos con cierto nivel de salinidad en la cuenca baja del río Yaracuy. Además existen zonas de baja fertilidad natural, con pH ácidos y baja saturación de bases en las montañas. Finalmente las limitaciones relacionadas con el drenaje interno (niveles freáticos medios a altos) se presentan en la parte media y baja del valle del río Yaracuy (Municipios Veroes) en aquellas terrenos planos y/o depresiones relacionadas con cursos de aguas. Por su parte el drenaje externo en su mayoría es rápido por las grandes pendientes de la zona montañosa, sin embargo se consiguen drenajes lentos en áreas planas y depresionales en la zona noreste del estado. Finalmente las limitaciones por inundación son ocasionales en la planicie aluvial de la cuenca baja del río Yaracuy en el municipio Veroes.
+De la calificación de cada uno de los factores específicos del Sistema de Clasificación por Capacidad de Uso agropecuario aplicado al estado Yaracuy (Figuras 32 a 43), se desprende que las mayores limitaciones del medio físico natural encontradas en el estado para el cultivo de Cereales y leguminosas, son las altas pendientes y el microrelieve del terreno especialmente en las laderas y piedemonte de las montañas de Sierra de Aroa y la montaña de Maria Lionza. Las cuales en algunos casos pueden presentar también limitaciones por profundidad de los suelos específicamente en los piedemontes y estribaciones de la Cordillera y erosión actual en el piedemonte altamente intervenidos por estar cerca de poblaciones importantes como San Felipe, Urachiche y Yaritagua. Otras limitaciones  encontradas son los suelos con cierto nivel de salinidad en la cuenca baja del río Yaracuy. Además existen zonas de baja fertilidad natural, con pH ácidos y baja saturación de bases en las montañas. Finalmente las limitaciones relacionadas con el drenaje interno (niveles freáticos medios a altos) se presentan en la parte media y baja del valle del río Yaracuy (Municipios Veroes) en aquellas terrenos planos y/o depresiones relacionadas con cursos de aguas. Por su parte el drenaje externo en su mayoría es rápido por las grandes pendientes de la zona montañosa, sin embargo se consiguen drenajes lentos en áreas planas y depresionales en la zona noreste del estado. Finalmente las limitaciones por inundación son ocasionales en la planicie aluvial de la cuenca baja del río Yaracuy en el municipio Veroes.
 
 ---
 
-<center>![](Imagenes/Yaracuy_Pendiente.png)**Figura 17.** Calificación de las limitaciones por pendientes del terreno en el estado Yaracuy.  <a href="Pdfs/Yaracuy_Pendiente.pdf" target="_blank" title="descargar">*Descargar*</a></center>
+<center>![](Imagenes/Yaracuy_Pendiente.png)**Figura 32.** Calificación de las limitaciones por pendientes del terreno en el estado Yaracuy.  <a href="Pdfs/Yaracuy_Pendiente.pdf" target="_blank" title="descargar">*Descargar*</a></center>
 <br>
 
 <center>![](Imagenes/Yaracuy_Microrelieve1.png)
-**Figura 18.** Calificación de las limitaciones por microrelieve del terreno en el estado Yaracuy. <a href="Pdfs/Yaracuy_Microrelieve1.pdf" target="_blank" title="descargar">*Descargar*</a></center>
+**Figura 33.** Calificación de las limitaciones por microrelieve del terreno en el estado Yaracuy. <a href="Pdfs/Yaracuy_Microrelieve1.pdf" target="_blank" title="descargar">*Descargar*</a></center>
 <br>
 
 <center>![](Imagenes/Yaracuy_Erosion1.png)
-**Figura 19.** Calificación de las limitaciones por erosion del terreno en el estado Yaracuy. <a href="Pdfs/Yaracuy_Erosion1.pdf" target="_blank" title="descargar">*Descargar*</a></center>
+**Figura 34.** Calificación de las limitaciones por erosion del terreno en el estado Yaracuy. <a href="Pdfs/Yaracuy_Erosion1.pdf" target="_blank" title="descargar">*Descargar*</a></center>
 <br>
 
 <center>![](Imagenes/Yaracuy_Textura1.png)
-**Figura 20.** Calificación de las limitaciones por texturas de los suelos en el estado Yaracuy. <a href="Pdfs/Yaracuy_Texturas.pdf" target="_blank" title="descargas">*Descargar*</a></center>
+**Figura 35.** Calificación de las limitaciones por texturas de los suelos en el estado Yaracuy. <a href="Pdfs/Yaracuy_Texturas.pdf" target="_blank" title="descargas">*Descargar*</a></center>
 <br>
 
 <center>![](Imagenes/Yaracuy_Pedregosidad1.png)
-**Figura 21.** Calificación de las limitaciones por pedregosidad de los suelos en el estado Yaracuy. <a href="Pdfs/Yaracuy_Pedregosidad.pdf" target="_blank" title="descargas">*Descargar*</a></center>
+**Figura 36.** Calificación de las limitaciones por pedregosidad de los suelos en el estado Yaracuy. <a href="Pdfs/Yaracuy_Pedregosidad.pdf" target="_blank" title="descargas">*Descargar*</a></center>
 <br>
 
 <center>![](Imagenes/Yaracuy_Profundidad1.png)
-**Figura 22.** Calificación de las limitaciones por profundidad de los suelos en el estado Yaracuy. <a href="Pdfs/Yaracuy_Profundidad1.pdf" target="_blank" title="descargas">*Descargar*</a></center>
+**Figura 37.** Calificación de las limitaciones por profundidad de los suelos en el estado Yaracuy. <a href="Pdfs/Yaracuy_Profundidad1.pdf" target="_blank" title="descargas">*Descargar*</a></center>
 <br>
 
 <center>![](Imagenes/Yaracuy_Sales1.png)
-**Figura 23.** Calificación de las limitaciones por salinidad de los suelos en el estado Yaracuy. <a href="Pdfs/Yaracuy_Salinidad1.pdf" target="_blank" title="descargas">*Descargar*</a></center>
+**Figura 38.** Calificación de las limitaciones por salinidad de los suelos en el estado Yaracuy. <a href="Pdfs/Yaracuy_Salinidad1.pdf" target="_blank" title="descargas">*Descargar*</a></center>
 <br>
 
 <center>![](Imagenes/Yaracuy_Fertilidad1.png)
-**Figura 24.** Calificación de las limitaciones por fertilidad de los suelos en el estado Yaracuy. <a href="Pdfs/Yaracuy_Fertilidad1.pdf" target="_blank" title="descargas">*Descargar*</a></center>
+**Figura 39.** Calificación de las limitaciones por fertilidad de los suelos en el estado Yaracuy. <a href="Pdfs/Yaracuy_Fertilidad1.pdf" target="_blank" title="descargas">*Descargar*</a></center>
 <br>
 
 <center>![](Imagenes/Yaracuy_Permeabilidad1.png)
-**Figura 25.** Calificación de las limitaciones por permeabilidad de los suelos en el estado Yaracuy. <a href="Pdfs/Yaracuy_Permeabilidad1.pdf" target="_blank" title="descargas">*Descargar*</a></center>
+**Figura 40.** Calificación de las limitaciones por permeabilidad de los suelos en el estado Yaracuy. <a href="Pdfs/Yaracuy_Permeabilidad1.pdf" target="_blank" title="descargas">*Descargar*</a></center>
 <br>
 
 <center>![](Imagenes/Yaracuy_D_interno1.png)
-**Figura 26.** Calificación de las limitaciones por drenaje interno de los suelos en el estado Yaracuy. <a href="Pdfs/Yaracuy_Dre_interno1.pdf" target="_blank" title="descargas">*Descargar*</a></center>
+**Figura 41.** Calificación de las limitaciones por drenaje interno de los suelos en el estado Yaracuy. <a href="Pdfs/Yaracuy_Dre_interno1.pdf" target="_blank" title="descargas">*Descargar*</a></center>
 <br>
 
 <center>![](Imagenes/Yaracuy_D_externo1.png)
-**Figura 27.** Calificación de las limitaciones por drenaje externo de los suelos en el estado Yaracuy. <a href="Pdfs/Yaracuy_Dre_externo1.pdf" target="_blank" title="descargas">*Descargar*</a></center>
+**Figura 42.** Calificación de las limitaciones por drenaje externo de los suelos en el estado Yaracuy. <a href="Pdfs/Yaracuy_Dre_externo1.pdf" target="_blank" title="descargas">*Descargar*</a></center>
 <br>
 
 <center>![](Imagenes/Yaracuy_Inundacion1.png)
-**Figura 28.** Calificación de las limitaciones por inundacion del terreno en el estado Yaracuy. <a href="Pdfs/Yaracuy_Inundacion1.pdf" target="_blank" title="descargas">*Descargar*</a></center>
+**Figura 43.** Calificación de las limitaciones por inundacion del terreno en el estado Yaracuy. <a href="Pdfs/Yaracuy_Inundacion1.pdf" target="_blank" title="descargas">*Descargar*</a></center>
 <br>
 
 ### Clase de Capacidad de Uso Agropecuario {-}
 
-El estado Yaracuy posee una superficie de 642.228 ha (6422 km2) aproximadamente y de ellas 7.6 % resultaron categorizadas por su capacidad de uso agropecuario como clase I, localizadas en la cuenca media y alta del río Yaracuy en un eje que transcurre de suroeste a noreste en el estado. Por otra parte 13.4 % se categorizó como clase III, ubicadas muy distribuidas en todo el estado destacando las zonas al norte de Yumare, norte del Chino, valle central medio y alto del río Yaracuy y los valles altos de Nirgua y Temerla. Otro 11.4 % resultó clase IV y se localizan mayoritariamente en la cuenca del río Aroa y sus afluentes como el río Yumare, y la cuenca baja del río Yaracuy en el municipio Veroes. El resto de la superficie del estado (67.4%) resultaron de clases iguales o mayores a la clase VI con poco potencial para el cultivo de cereales y leguminosas debido a limitaciones moderadas a fuertes principalmente relacionadas a la pendiente, profundidad, fertilidad y drenaje. (Ver Cuadro 5 y Figura 40).
+El estado Yaracuy posee una superficie de 642.228 ha (6422 km2) aproximadamente y de ellas 7.6 % resultaron categorizadas por su capacidad de uso agropecuario como clase I, localizadas en la cuenca media y alta del río Yaracuy en un eje que transcurre de suroeste a noreste en el estado. Por otra parte 13.4 % se categorizó como clase III, ubicadas muy distribuidas en todo el estado destacando las zonas al norte de Yumare, norte del Chino, valle central medio y alto del río Yaracuy y los valles altos de Nirgua y Temerla. Otro 11.4 % resultó clase IV y se localizan mayoritariamente en la cuenca del río Aroa y sus afluentes como el río Yumare, y la cuenca baja del río Yaracuy en el municipio Veroes. El resto de la superficie del estado (67.4%) resultaron de clases iguales o mayores a la clase VI con poco potencial para el cultivo de cereales y leguminosas debido a limitaciones moderadas a fuertes principalmente relacionadas a la pendiente, profundidad, fertilidad y drenaje. (Ver Cuadro 7 y Figura 44).
 
-<center>**Cuadro 6.** Superficies y porcentajes por clases de Capacidad de Uso Agropecuario en el Estado Yaracuy.</center>
+<center>**Cuadro 7.** Superficies y porcentajes por clases de Capacidad de Uso Agropecuario en el Estado Yaracuy.</center>
 
 <center>![](Imagenes/Yaracuy_super_cuso.png)</center>
 
 <br>
 <center>![](Imagenes/Yaracuy_CUSO1.png)
-**Figura 29.** Mapa de Clases de Capacidad de Uso Agropecuario de las tierras en el estado Yaracuy. <a href="Pdfs/Yaracuy_CUSO1.pdf" target="_blank" title="descargas">*Descargar*</a></center>
+**Figura 44.** Mapa de Clases de Capacidad de Uso Agropecuario de las tierras en el estado Yaracuy. <a href="Pdfs/Yaracuy_CUSO1.pdf" target="_blank" title="descargas">*Descargar*</a></center>
 <br>
 
 
@@ -79,11 +79,14 @@ Las zonas no aptas alcanzan el 67.4 % del estado y son áreas de montañas (Sier
 
 Las figuras 45, 46 y el Cuadro 8 muestran gráficamente la proporcionalidad de las clases y  las localidades con su categorización de aptitud para el cultivo de Cereales y Leguminosas.
 
-<center>![](Imagenes/Figura_yaracuy_aptitud.png)**Figura 30.** Proporción de clases de aptitud para el estado Yaracuy.</center>
+<center>![](Imagenes/Figura_yaracuy_aptitud.png)**Figura 45.** Proporción de clases de aptitud para el estado Yaracuy.</center>
 <br>
 
 <center>![](Imagenes/Yaracuy_Aptitud.png)
-**Figura 31.** Mapa de Clases de Aptitud de las tierras para el cultivo de Cereales y Leguminosas en el estado Yaracuy. <a href="Pdfs/Yaracuy_Aptitud.pdf" target="_blank" title="descargas">*Descargar*</a></center>
+**Figura 46.** Mapa de Clases de Aptitud de las tierras para el cultivo de Cereales y Leguminosas en el estado Yaracuy. <a href="Pdfs/Yaracuy_Aptitud.pdf" target="_blank" title="descargas">*Descargar*</a></center>
 <br>
 
+<center>**Cuadro 8.** Poblaciones del Estado Yaracuy en o cercanas a las áreas aptas para el cultivo de Cereales y Leguminosas.</center>
+
+<center>![](Imagenes/Yaracuy_localidad.png)</center>
 
