@@ -1,0 +1,11 @@
+# Descargar informe {-}
+
+Para descargar el documento en formato PDF de clic en la siguiente figura.
+<br>
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="Pdfs/Informe_ETCL080124_borrar.pdf" target="_blank" title="Descargue el Informe"><img src="Imagenes/descargas.png" alt="Descarga de informe" width="126" height="107"/></a>
+</p>
+</div>
+
