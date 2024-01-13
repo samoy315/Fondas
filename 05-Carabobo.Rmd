@@ -79,7 +79,7 @@ Las zonas no aptas alcanzan el 69.3% del estado y son áreas de montañas con al
 
 Las figuras 30, 31 y el Cuadro 7 muestran gráficamente la proporcionalidad de las clases y  las localidades con su categorización de aptitud para el cultivo de Cereales y Leguminosas.
 
-<center>![](Imagenes/Figura_carabobo_aptitud.png)**Figura 30.** Proporción de clases de aptitud para el estado Aragua.</center>
+<center>![](Imagenes/Figura_carabobo_aptitud.png)**Figura 30.** Proporción de clases de aptitud para el estado Carabobo.</center>
 <br>
 
 <center>![](Imagenes/Carabobo_Aptitud.png)

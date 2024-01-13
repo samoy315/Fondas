@@ -57,6 +57,15 @@ De la calificación de cada uno de los factores específicos del Sistema de Clas
 
 El estado Yaracuy posee una superficie de 642.228 ha (6422 km2) aproximadamente y de ellas 7.6 % resultaron categorizadas por su capacidad de uso agropecuario como clase I, localizadas en la cuenca media y alta del río Yaracuy en un eje que transcurre de suroeste a noreste en el estado. Por otra parte 13.4 % se categorizó como clase III, ubicadas muy distribuidas en todo el estado destacando las zonas al norte de Yumare, norte del Chino, valle central medio y alto del río Yaracuy y los valles altos de Nirgua y Temerla. Otro 11.4 % resultó clase IV y se localizan mayoritariamente en la cuenca del río Aroa y sus afluentes como el río Yumare, y la cuenca baja del río Yaracuy en el municipio Veroes. El resto de la superficie del estado (67.4%) resultaron de clases iguales o mayores a la clase VI con poco potencial para el cultivo de cereales y leguminosas debido a limitaciones moderadas a fuertes principalmente relacionadas a la pendiente, profundidad, fertilidad y drenaje. (Ver Cuadro 5 y Figura 40).
 
+<center>**Cuadro 6.** Superficies y porcentajes por clases de Capacidad de Uso Agropecuario en el Estado Yaracuy.</center>
+
+<center>![](Imagenes/Yaracuy_super_cuso.png)</center>
+
+<br>
+<center>![](Imagenes/Yaracuy_CUSO1.png)
+**Figura 29.** Mapa de Clases de Capacidad de Uso Agropecuario de las tierras en el estado Yaracuy. <a href="Pdfs/Yaracuy_CUSO1.pdf" target="_blank" title="descargas">*Descargar*</a></center>
+<br>
+
 
 ### Clase de Aptitud para el cultivo de Cereales y Leguminosas {-}
 
@@ -69,5 +78,12 @@ Las tierras con una actitud moderadamente representan unos 13.4%, localizadas di
 Las zonas no aptas alcanzan el 67.4 % del estado y son áreas de montañas (Sierra de Aroa, Montaña de Maria Lionza, Monte Oscuro, Montaña el Zapatero, La Palma y Nirgua, con altas pendientes, micro relieve irregular, drenaje externos muy rápidos, suelos poco profundos y de baja fertilidad.
 
 Las figuras 45, 46 y el Cuadro 8 muestran gráficamente la proporcionalidad de las clases y  las localidades con su categorización de aptitud para el cultivo de Cereales y Leguminosas.
+
+<center>![](Imagenes/Figura_yaracuy_aptitud.png)**Figura 30.** Proporción de clases de aptitud para el estado Yaracuy.</center>
+<br>
+
+<center>![](Imagenes/Yaracuy_Aptitud.png)
+**Figura 31.** Mapa de Clases de Aptitud de las tierras para el cultivo de Cereales y Leguminosas en el estado Yaracuy. <a href="Pdfs/Yaracuy_Aptitud.pdf" target="_blank" title="descargas">*Descargar*</a></center>
+<br>
 
 
