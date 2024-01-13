@@ -87,3 +87,5 @@ Las figuras 15, 16 y el Cuadro 3 muestran gráficamente la proporcionalidad de l
 <center>![](Imagenes/Aragua_Aptitud1.png)
 **Figura 16.** Mapa de Clases de Aptitud de las tierras para el cultivo de Cereales y Leguminosas en el estado Aragua. <a href="Pdfs/Aragua_Aptitud1.pdf" target="_blank" title="descargas">*Descargar*</a></center>
 <br>
+
+<center>**Cuadro 6.** Poblaciones del Estado Aragua en o cercanas a las áreas aptas para el cultivo de Cereales y Leguminosas.</center>
